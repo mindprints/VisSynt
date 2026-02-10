@@ -1,0 +1,5 @@
+{
+  "name": "Visual Synthesis Engine",
+  "description": "A research tool that performs deep topic searches for visualizations and diagrams, then synthesizes a conglomerate representation using Nano Banana compared against direct generation.",
+  "requestFramePermissions": []
+}
